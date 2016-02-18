@@ -2,11 +2,11 @@
 Data Cleaning Course - Final Assignment
 
 Submitted Files
-
-####run_analysis.R
-####README.md
-####CookBook.md
-
+<ul>
+<li>run_analysis.R</li>
+<li>README.md</li>
+<li>CookBook.md</li>
+</ul>
 
 Checkout the code using 'git checkout https://github.com/oneamine/DataCleaning.git WORKINGDIRECTORY'
 
