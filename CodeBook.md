@@ -1,4 +1,4 @@
-###Code Boo
+###Code Book
 This code book includes information about the source data, the transformations performed on the data and the variables of the final data sets.
 
 ####Study Design
